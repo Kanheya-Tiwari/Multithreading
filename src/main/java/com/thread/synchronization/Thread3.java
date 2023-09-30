@@ -1,4 +1,4 @@
-package com.synchronization;
+package com.thread.synchronization;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.implement.runnable;
+package com.thread.implementsrunnable;
 
 class RunnerEx implements Runnable{
     public void run() {

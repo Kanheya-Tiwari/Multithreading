@@ -1,4 +1,4 @@
-package com.synchronization;
+package com.thread.synchronization;
 
 public class Thread4 {
     private  int count = 0;

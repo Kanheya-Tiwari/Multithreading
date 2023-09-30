@@ -1,4 +1,4 @@
-package com.producer.consumer;
+package com.thread.producerconsumer;
 
 import java.util.Scanner;
 

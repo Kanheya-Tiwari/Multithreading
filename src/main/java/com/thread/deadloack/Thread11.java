@@ -1,4 +1,4 @@
-package com.deadloack;
+package com.thread.deadloack;
 
 public class Thread11 {
     public static void main(String ar[]) {

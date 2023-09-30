@@ -1,4 +1,4 @@
-package com.blocking.queue;
+package com.thread.blockingqueue;
 
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;

@@ -1,4 +1,4 @@
-package com.extend.thread;
+package com.thread.extendsthread;
 
 class Runner extends Thread{
     public void run() {
